@@ -8,12 +8,9 @@
 > This portfolio presents a compendium of Monitoring, Evaluation, and Learning (MEL) and Digital Health projects that I led and implemented. Each project exemplifies practical experience in data systems design, analytics automation, and digital transformation, underscoring how MEL can transcend conventional reporting to become a strategic driver of program improvement, financial sustainability, and adaptive learning through strengthened data systems, interoperable electronic medical records (EMRs), and evidence-driven dashboards.
 
 
-
----
-
 <!-- Repo Title & Description for GitHub -->
-<!-- Title: EDARP MEL & Digital Health Projects -->
-<!-- Description: Portfolio showcasing Monitoring, Evaluation & Learning (MEL) systems, data analytics, and digital health transformation projects led under EDARP in Nairobi, Kenya. -->
+<!-- Title: MEL & Digital Health Projects -->
+<!-- Description: Portfolio showcasing Monitoring, Evaluation & Learning (MEL) systems, data analytics, and digital health transformation projects led in Nairobi, Kenya. -->
 
 
 ---
