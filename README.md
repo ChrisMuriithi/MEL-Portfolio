@@ -1,4 +1,4 @@
-# MEL & Digital Health Portfolio
+MEL & Digital Health Portfolio
 
 **By Christopher Muriithi**  
 📧 **Email:** [nomiskris@gmail.com](mailto:nomiskris@gmail.com)  
