@@ -11,7 +11,14 @@
 <!-- Repo Title & Description for GitHub -->
 <!-- Title: MEL & Digital Health Projects -->
 <!-- Description: Portfolio showcasing Monitoring, Evaluation & Learning (MEL) systems, data analytics, and digital health transformation projects led in Nairobi, Kenya. -->
+---
 
+## 🧠 Core Skills Demonstrated
+- **MEL Systems Design:** Logic models, indicator mapping, data pipelines, and adaptive dashboards.  
+- **Digital Health Integration:** EMR optimization, interoperability, and data protection compliance.  
+- **Data Analytics & Visualization:** Power BI, SQL Server, Python automation, and real-time reporting.  
+- **Research & Evaluation:** Mixed-methods analysis, operational research, and utilization-focused reporting.  
+- **Learning & Capacity Building:** AI-enabled evidence synthesis, training, and mentorship.  
 
 ---
 
@@ -32,14 +39,6 @@
 | **11** | [Learning & Knowledge Sharing Initiative](./11_Learning_Knowledge_Sharing/README.md) | Knowledge Management, AI Integration | ChatGPT API, NVivo, Power BI | First AI-powered MEL evidence synthesis at EDARP. |
 | **12** | [Evaluation & Evidence Generation](./12_Evaluation_Evidence_Generation/README.md) | Operational Research, Evaluation | STATA, NVivo, Power BI | Findings shared at NASCOP & Union World Lung Conference. |
 
----
-
-## 🧠 Core Skills Demonstrated
-- **MEL Systems Design:** Logic models, indicator mapping, data pipelines, and adaptive dashboards.  
-- **Digital Health Integration:** EMR optimization, interoperability, and data protection compliance.  
-- **Data Analytics & Visualization:** Power BI, SQL Server, Python automation, and real-time reporting.  
-- **Research & Evaluation:** Mixed-methods analysis, operational research, and utilization-focused reporting.  
-- **Learning & Capacity Building:** AI-enabled evidence synthesis, training, and mentorship.  
 
 ---
 
