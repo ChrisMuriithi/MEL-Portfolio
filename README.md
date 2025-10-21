@@ -63,13 +63,3 @@
 - 🧩 Integrated **AI and automation** into MEL and learning workflows at EDARP.  
 
 ---
-
-## ✉️ Contact
-**Name:** Christopher Muriithi  
-**Email:** nomiskris@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/christopher-mwangi-894265b0  
-**GitHub:** https://github.com/ChristopherMuriithiMwangi  
-
-> Note: GitHub usernames cannot contain spaces. If your profile uses a different handle, update the link above accordingly.
-
----
