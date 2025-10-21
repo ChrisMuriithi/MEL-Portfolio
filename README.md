@@ -19,7 +19,7 @@ Harmonized indicators across facility and community platforms, ensuring alignmen
 
 **Languages & Tools:** SQL Server · Power BI · Excel · Python (pandas)  
 **Environment:** Facility & Community Data Systems  
-**Walk-through:** [`/Projects/MEL-System-Strengthening`](#)
+**Walk-through:** [`/Projects/MEL-System-Strengthening`](https://github.com/ChrisMuriithi/MEL-Portfolio/tree/main/Projects/MEL-System-Strengthening)
 
 ---
 
