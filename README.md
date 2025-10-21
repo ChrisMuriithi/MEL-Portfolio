@@ -5,7 +5,7 @@
 🔗 **LinkedIn:** [Christopher Mwangi](https://www.linkedin.com/in/christopher-mwangi-894265b0)  
 💻 **GitHub:** [@ChrisMuriithi](https://github.com/ChrisMuriithi)
 
-> A collection of Monitoring, Evaluation & Learning (MEL) and Digital Health projects led and implemented across EDARP and partner organizations — showcasing work in data systems strengthening, dashboards, EMR interoperability, and adaptive programming.
+> This portfolio presents a compendium of Monitoring, Evaluation, and Learning (MEL) and Digital Health projects led and implemented across EDARP and collaborating partner organizations. Each project exemplifies practical experience in data systems design, analytics automation, and digital transformation, underscoring how MEL can transcend conventional reporting to become a strategic driver of program improvement, financial sustainability, and adaptive learning through strengthened data systems, interoperable electronic medical records (EMRs), and evidence-driven dashboards.
 
 ---
 
@@ -85,17 +85,6 @@ Used Power BI automation and DAX measures to generate weekly facility scorecards
 <!-- Title: EDARP MEL & Digital Health Projects -->
 <!-- Description: Portfolio showcasing Monitoring, Evaluation & Learning (MEL) systems, data analytics, and digital health transformation projects led under EDARP in Nairobi, Kenya. -->
 
-# EDARP MEL & Digital Health Portfolio
-
-### By Christopher Muriithi  
-**Monitoring, Evaluation, Learning (MEL) | Data Analytics | Digital Health Systems | ICT4D Integration**
-
----
-
-## 🏥 About This Portfolio
-This repository showcases a comprehensive collection of **Monitoring, Evaluation, and Learning (MEL)** and **Digital Health Transformation Projects** implemented at the **Eastern Deanery AIDS Relief Program (EDARP)** — a leading faith-based organization providing HIV/TB, SRH, and OPD services in Nairobi, Kenya.
-
-Each project reflects my experience in **data systems design**, **analytics automation**, and **digital transformation**, demonstrating how MEL can move beyond reporting — to driving real program change, financial sustainability, and adaptive learning.
 
 ---
 
