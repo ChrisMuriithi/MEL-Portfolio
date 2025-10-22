@@ -1,19 +1,5 @@
 # MEL & Digital Health Portfolio
 
-**By Christopher Muriithi**  
-📧 **Email:** [nomiskris@gmail.com](mailto:nomiskris@gmail.com)  
-🔗 **LinkedIn:** [Christopher Mwangi](https://www.linkedin.com/in/christopher-mwangi-894265b0)  
-💻 **GitHub:** [@ChrisMuriithi](https://github.com/ChrisMuriithi)
-:bar_chart: **Google Scholar:** [Christopher Muriithi Mwangi](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
-
-
-**By Christopher Muriithi**
-
-[![Email](https://img.shields.io/badge/Email-nomiskris@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomiskris@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-mwangi-894265b0)
-[![GitHub](https://img.shields.io/badge/GitHub-@ChrisMuriithi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrisMuriithi)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
 
 <p align="left">
   <strong>By Christopher Muriithi</strong>
@@ -42,7 +28,6 @@
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
 </p>
-
 
 
 
