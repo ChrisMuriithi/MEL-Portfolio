@@ -30,14 +30,14 @@
 | **2** | [OPD Expansion Project: Enhancing Access & Financial Sustainability](Projects/OPD-Expansion/README.md) | Health Systems, Financial Analytics | SQL Server, Power BI, Carimed Integration | Increased revenue by 46%; improved billing efficiency by 38%. |
 | **3** | [UPI Framework Implementation: Advancing Client Registry & Interoperability](Projects/UPI-Framework/README.md) | Digital ID, Interoperability | SQL Server, Python, API, Power BI | Reduced duplicates by 67%; UPI coverage up to 95%. |
 | **4** | [Ecare EMR Integration: Connecting NiShauri, Ushauri & CBHIS](Projects/EcareEMR/README.md) | EMR Systems, Interoperability | Python, SQL, REST APIs, Power BI | Reduced reporting latency from 14 days to <24 hours. |
-| **5** | [Commodity & Laboratory Systems Integration](.Projects/Commodity-Lab-Systems/README.md) | Supply Chain, LIMS/PIS | SQL Server, Power BI, Automation | Stock-outs reduced by 52%; turnaround time dropped 68%. |
-| **6** | [Community-Based Health Information System (CBHIS)](./06_CBHIS_Project/README.md) | Community Data, Digital Linkages | Kobo, Python, SQL, Power BI | Referral completion improved from 54% to 91%. |
-| **7** | [LINDA PIA DADA Mobile App & USSD Platform](./07_LINDA_PIA_DADA_App_USSD/README.md) | Mobile Health, Digital Outreach | Flutter, Node.js, SQL, Power BI | 4,200+ AGYW reached; 72% appointment success rate. |
-| **8** | [Data Quality Assurance (DQA) Automation](./08_DQA_Automation/README.md) | Data Quality, Automation | SQL, Python, Power BI | 71% error reduction; validation time down from 5 days to 6 hrs. |
-| **9** | [MEL System Strengthening & Strategic Alignment](./09_MEL_System_Strengthening/README.md) | MEL Systems, Dashboards | SQL, Power BI, Excel | Unified indicators across donors; course corrections +35%. |
-| **10** | [National & Sub-National DQA Collaboration](./10_National_DQA_Collaboration/README.md) | Data Governance | DHIS2, SQL, Power BI | Standardized indicators across 3 counties. |
-| **11** | [Learning & Knowledge Sharing Initiative](./11_Learning_Knowledge_Sharing/README.md) | Knowledge Management, AI Integration | ChatGPT API, NVivo, Power BI | First AI-powered MEL evidence synthesis at EDARP. |
-| **12** | [Evaluation & Evidence Generation](./12_Evaluation_Evidence_Generation/README.md) | Operational Research, Evaluation | STATA, NVivo, Power BI | Findings shared at NASCOP & Union World Lung Conference. |
+| **5** | [Commodity & Laboratory Systems Integration](Projects/Commodity-Lab-Systems/README.md) | Supply Chain, LIMS/PIS | SQL Server, Power BI, Automation | Stock-outs reduced by 52%; turnaround time dropped 68%. |
+| **6** | [Community-Based Health Information System (CBHIS)](Projects/CBHIS/README.md) | Community Data, Digital Linkages | Kobo, Python, SQL, Power BI | Referral completion improved from 54% to 91%. |
+| **7** | [LINDA PIA DADA Mobile App & USSD Platform](Projects/LINDA-PIA-DADA-Mobile/README.md) | Mobile Health, Digital Outreach | Flutter, Node.js, SQL, Power BI | 4,200+ AGYW reached; 72% appointment success rate. |
+| **8** | [Data Quality Assurance (DQA) Automation](Projects/DQA-Automation/README.md) | Data Quality, Automation | SQL, Python, Power BI | 71% error reduction; validation time down from 5 days to 6 hrs. |
+| **9** | [MEL System Strengthening & Strategic Alignment](Projects/MEL-System-Strengthening/README.md) | MEL Systems, Dashboards | SQL, Power BI, Excel | Unified indicators across donors; course corrections +35%. |
+| **10** | [National & Sub-National DQA Collaboration](Projects/National-DQA/README.md) | Data Governance | DHIS2, SQL, Power BI | Standardized indicators across 3 counties. |
+| **11** | [Learning & Knowledge Sharing Initiative](Projects/Learning-Knowledge-Sharing/README.md) | Knowledge Management, AI Integration | ChatGPT API, NVivo, Power BI | First AI-powered MEL evidence synthesis at EDARP. |
+| **12** | [Evaluation & Evidence Generation](Projects/Evaluation-Evidence-Generation/README.md) | Operational Research, Evaluation | STATA, NVivo, Power BI | Findings shared at NASCOP & Union World Lung Conference. |
 
 
 ---
