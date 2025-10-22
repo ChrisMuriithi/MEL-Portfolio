@@ -15,6 +15,28 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@ChrisMuriithi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrisMuriithi)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
 
+<p align="center">
+
+  <strong>By Christopher Muriithi</strong>  
+
+  <br>
+
+  <a href="mailto:nomiskris@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nomiskris@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/christopher-mwangi-894265b0">
+    <img src="https://img.shields.io/badge/LinkedIn-Christopher%20Mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ChrisMuriithi">
+    <img src="https://img.shields.io/badge/GitHub-@ChrisMuriithi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+
+</p>
+
+
 
 
 > This portfolio presents a compendium of Monitoring, Evaluation, and Learning (MEL) and Digital Health projects that I led and implemented. Each project exemplifies practical experience in data systems design, analytics automation, and digital transformation, underscoring how MEL can transcend conventional reporting to become a strategic driver of program improvement, financial sustainability, and adaptive learning through strengthened data systems, interoperable electronic medical records (EMRs), and evidence-driven dashboards.
