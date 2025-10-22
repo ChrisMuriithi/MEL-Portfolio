@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@ChrisMuriithi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrisMuriithi)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
 
-<p align="center">
+<p align="left">
   <strong>By Christopher Muriithi</strong>
 </p>
 
