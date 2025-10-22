@@ -16,25 +16,33 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
 
 <p align="center">
+  <strong>By Christopher Muriithi</strong>
+</p>
 
-  <strong>By Christopher Muriithi</strong>  
-
-  <br>
-
+<p align="center">
   <a href="mailto:nomiskris@gmail.com">
     <img src="https://img.shields.io/badge/Email-nomiskris@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/christopher-mwangi-894265b0">
     <img src="https://img.shields.io/badge/LinkedIn-Christopher%20Mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ChrisMuriithi">
     <img src="https://img.shields.io/badge/GitHub-@ChrisMuriithi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+</p>
+
+<p align="center">
   <a href="https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
-
 </p>
+
 
 
 
