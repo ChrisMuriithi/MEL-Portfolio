@@ -26,7 +26,7 @@
 
 | # | Project Title | Focus Area | Tools & Platforms | Highlights |
 |---|----------------|-------------|------------------|-------------|
-| **1** | [LINDA PIA DADA: Strengthening Digital HIV Prevention for AGYW](./01_LINDA_PIA_DADA/README.md) | HIV Prevention, MEL Integration | SQL Server, Python, Power BI, Kobo, Ecare EMR | Improved appointment adherence by 32%; reached 78% PrEP targets. |
+| **1** | [LINDA PIA DADA: Strengthening Digital HIV Prevention for AGYW](Projects/LINDA-PIA-DADA/README.md) | HIV Prevention, MEL Integration | SQL Server, Python, Power BI, Kobo, Ecare EMR | Improved appointment adherence by 32%; reached 78% PrEP targets. |
 | **2** | [OPD Expansion Project: Enhancing Access & Financial Sustainability](./02_OPD_Expansion/README.md) | Health Systems, Financial Analytics | SQL Server, Power BI, Carimed Integration | Increased revenue by 46%; improved billing efficiency by 38%. |
 | **3** | [UPI Framework Implementation: Advancing Client Registry & Interoperability](./03_UPI_Framework/README.md) | Digital ID, Interoperability | SQL Server, Python, API, Power BI | Reduced duplicates by 67%; UPI coverage up to 95%. |
 | **4** | [Ecare EMR Integration: Connecting NiShauri, Ushauri & CBHIS](./04_Ecare_EMR_Integration/README.md) | EMR Systems, Interoperability | Python, SQL, REST APIs, Power BI | Reduced reporting latency from 14 days to <24 hours. |
