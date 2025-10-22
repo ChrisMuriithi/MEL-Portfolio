@@ -4,8 +4,7 @@
 📧 **Email:** [nomiskris@gmail.com](mailto:nomiskris@gmail.com)  
 🔗 **LinkedIn:** [Christopher Mwangi](https://www.linkedin.com/in/christopher-mwangi-894265b0)  
 💻 **GitHub:** [@ChrisMuriithi](https://github.com/ChrisMuriithi)
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/49745dc4-235e-4f4f-96ad-746cf1d8941b" />
-**Google Scholar:** [Christopher Muriithi Mwangi](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
+<img width="222" height="218" alt="image" src="https://github.com/user-attachments/assets/768ba1d8-931b-43ce-830b-3a76b064f7e8" />**Google Scholar:** [Christopher Muriithi Mwangi](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
 
 > This portfolio presents a compendium of Monitoring, Evaluation, and Learning (MEL) and Digital Health projects that I led and implemented. Each project exemplifies practical experience in data systems design, analytics automation, and digital transformation, underscoring how MEL can transcend conventional reporting to become a strategic driver of program improvement, financial sustainability, and adaptive learning through strengthened data systems, interoperable electronic medical records (EMRs), and evidence-driven dashboards.
 
