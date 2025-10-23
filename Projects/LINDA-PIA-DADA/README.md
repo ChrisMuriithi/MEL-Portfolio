@@ -1,6 +1,5 @@
 # LINDA PIA DADA: Strengthening Digital HIV Prevention for AGYW in Nairobi  
 
-![Project Banner](https://github.com/yourusername/yourrepo/blob/main/PowerBI_Dashboard_Screenshots/cover.png?raw=true)  
 *Empowering Adolescent Girls and Young Women (AGYW) through digital innovation, data-driven insights, and compassionate care.*
 
 ---
