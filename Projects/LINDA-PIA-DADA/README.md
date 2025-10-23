@@ -50,7 +50,7 @@ As the **M&E and ICT Lead**, I designed the project’s digital monitoring and a
 Conducted a rapid data gap analysis across **14 facilities** to identify weaknesses in appointment adherence, PrEP linkage, and follow-up documentation.
 
 ### 2. Tool Design & Alignment
-Developed data collection tools aligned with **ViiV** and **PEPFAR MER 2.8.2** indicators, integrating modules for outreach, digital engagement, and follow-up.
+Developed data collection tools aligned with **ViiV** and **PEPFAR MER** indicators, integrating modules for outreach, digital engagement, and follow-up.
 
 ### 3. Data Pipeline Setup
 Built an **SQL-based integration** pulling data from **Ecare EMR**, **KoboToolbox**, and **pharmacy logs**, with scheduled **ETL jobs** to clean and merge data weekly.
@@ -78,6 +78,8 @@ Embedded **informed consent** and **privacy protocols** across all digital tools
 ## 📈 Results & Impact
 | Outcome | Result |
 |----------|---------|
+| **Community Reached** | **2270** number of people directly reached |
+| **Receive HIV prevention services** | **1911** number of people |
 | **PrEP Uptake** | Achieved **78%** of annual targets within 9 months |
 | **Appointment Adherence** | Reduced no-shows by **32%** through SMS reminders and peer follow-ups |
 | **Data Use Culture** | Facility managers now use dashboards for decision-making |
