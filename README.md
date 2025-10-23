@@ -104,7 +104,7 @@
 | 2021 | Monitoring & Evaluation in Global Health | University of Washington |
 | 2021 | National HIV Programme M&E Tools | NASCOP / MOH |
 | 2021 | Fundamentals of Global Health Research | University of Washington |
-| 2021 | Introduction to Research Ethics | TRREE |
+| 2021 | Introduction to Research Ethics | Training and Resources in Research Ethics Evaluation |
 
 ---
 
