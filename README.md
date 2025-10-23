@@ -99,6 +99,7 @@
 
 | Year | Certification Title | Institution
 |---|----------------|-------------|
+| 2025 | Leadership and Management in Health | University of Washington |
 | 2022 | HIV Case-Based Surveillance Data Use Protocol | NASCOP / MOH |
 | 2022 | Implementing HIV Case-Based Surveillance | NASCOP / MOH |
 | 2021 | Monitoring & Evaluation in Global Health | University of Washington |
