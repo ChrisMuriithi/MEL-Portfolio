@@ -86,7 +86,17 @@
 - 🏥 Strengthened MEL performance tracking across **14 health facilities**.  
 - 🔁 Reduced reporting lag by **80%** through automated dashboards.  
 - 💡 Influenced county-level health information system standardization in Kenya.  
-- 🧩 Integrated **AI and automation** into MEL and learning workflows at EDARP.  
+- 🧩 Integrated **AI and automation** into MEL and learning workflows at EDARP.
+- 📈 Supported 40,000+ clients across 14 health facilities, achieving 98% data accuracy and MOH compliance.
+- 💻 Led Ecare EMR digital transformation, integrating key modules and boosting reporting efficiency by 65%.
+- 🧠 Trained 200+ staff on Data Protection Act (2019) compliance and cybersecurity best practices.
+- 📊 Automated real-time dashboards, reducing reporting lag by 80% (from 2 weeks ➜ 3 days).
+- 🤖 Deployed AI-based deduplication algorithms with 95% accuracy, improving EMR data integrity.
+- 🧩 Integrated AI and automation into MEL and learning workflows at EDARP.
+- 🔁 Improved MEL data completeness from 82% → 97% through quarterly quality audits.
+- 🏦 Managed multi-donor MEL budgets (CDC, ViiV, Caritas) ensuring 100% reporting compliance.
+- 🚀 Maintained 99% EMR uptime via continuous upgrades and responsive user feedback loops.
+- 💡 Influenced county-level health information system standardization and digital health policy in Kenya.
 
 ---
 
