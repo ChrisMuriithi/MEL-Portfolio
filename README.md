@@ -82,11 +82,6 @@
 ---
 
 ## 🌍 Impact Overview
-- 📈 Supported **40,000+ clients** through integrated digital health systems.  
-- 🏥 Strengthened MEL performance tracking across **14 health facilities**.  
-- 🔁 Reduced reporting lag by **80%** through automated dashboards.  
-- 💡 Influenced county-level health information system standardization in Kenya.  
-- 🧩 Integrated **AI and automation** into MEL and learning workflows at EDARP.
 - 📈 Supported 40,000+ clients across 14 health facilities, achieving 98% data accuracy and MOH compliance.
 - 💻 Led Ecare EMR digital transformation, integrating key modules and boosting reporting efficiency by 65%.
 - 🧠 Trained 200+ staff on Data Protection Act (2019) compliance and cybersecurity best practices.
