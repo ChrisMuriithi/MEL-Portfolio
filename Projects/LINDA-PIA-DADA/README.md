@@ -94,11 +94,8 @@ Embedded **informed consent** and **privacy protocols** across all digital tools
 
 ## 📂 Visuals and Documentation
 •	**PowerBI_Dashboard_Screenshots:** Sample visualizations of AGYW reach and PrEP trends.
-
 •	**SQL_Codes:** data cleaning and indicator generation scripts.
-
 •	**LINDA_PIA_DADA_MEL_Plan.pdf:** M&E framework.
-
 •	**Learning_Brief_Q3.pdf:** summary report.
 
 ---
