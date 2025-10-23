@@ -95,19 +95,16 @@
 
 ---
 
-## 📂 Certifications
+## 🎓 Certifications
 
 | Year | Certification Title | Institution
 |---|----------------|-------------|
+| 2022 | HIV Case-Based Surveillance Data Use Protocol | NASCOP / MOH |
+| 2022 | Implementing HIV Case-Based Surveillance | NASCOP / MOH |
 | 2021 | Monitoring & Evaluation in Global Health | University of Washington |
-| 2021 | Monitoring & Evaluation in Global Health | University of Washington |
-| 2021 | Monitoring & Evaluation in Global Health | University of Washington |
-| 2021 | Monitoring & Evaluation in Global Health | University of Washington |
-| 2021 | Monitoring & Evaluation in Global Health | University of Washington |
-| 2021 | Monitoring & Evaluation in Global Health | University of Washington |
-| 2021 | Monitoring & Evaluation in Global Health | University of Washington |
-| 2021 | Monitoring & Evaluation in Global Health | University of Washington |
-| 2021 | Monitoring & Evaluation in Global Health | University of Washington |
+| 2021 | National HIV Programme M&E Tools | NASCOP / MOH |
+| 2021 | Fundamentals of Global Health Research | University of Washington |
+| 2021 | Introduction to Research Ethics | TRREE |
 
 ---
 
