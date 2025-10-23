@@ -28,7 +28,7 @@ As the **M&E and ICT Lead**, I designed the project’s digital monitoring and a
 | **SQL Server** | Structured data storage, cleaning, and indicator analysis |
 | **Python (Pandas, Matplotlib)** | Data validation, visualization, and report automation |
 | **Power BI** | Real-time dashboards (PrEP uptake, outreach coverage, adherence trends) |
-| **Excel / Power Query** | Routine monitoring and indicator tracking |
+| **Excel / Power Query** | Routine monitoring and indicator tracking, validation checks |
 | **KoboToolbox** | Mobile data collection by Community Health Promoters |
 | **NVivo** | Qualitative coding and thematic analysis |
 | **Ecare EMR** | Integrated clinical data and HIV care continuity |
@@ -36,7 +36,7 @@ As the **M&E and ICT Lead**, I designed the project’s digital monitoring and a
 ---
 
 ## 🖥️ Environment / Platforms
-- **SQL Server 2019** (on-premise) for facility-level data management  
+- **SQL Server** (on-premise) for facility-level data management  
 - **Power BI Service** for dashboard publication and stakeholder access  
 - **KoboCollect Android App** for real-time field data entry  
 - **NVivo 14** desktop for qualitative analysis  
@@ -92,8 +92,11 @@ Embedded **informed consent** and **privacy protocols** across all digital tools
 
 ---
 
-## 📂 Repository Structure
-
+## 📂 Visuals and Documentation
+•	PowerBI_Dashboard_Screenshots/ — sample visualizations of AGYW reach and PrEP trends.
+•	SQL_Codes/ — data cleaning and indicator generation scripts.
+•	LINDA_PIA_DADA_MEL_Plan.pdf — M&E framework.
+•	Learning_Brief_Q3.pdf — summary report.
 
 ---
 
