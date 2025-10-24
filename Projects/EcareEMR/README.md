@@ -105,3 +105,31 @@ Implemented **role-based access control**, **audit trails**, and **encryption at
 
 ## 📂 Visuals and Documentation
 Suggested GitHub repository structure:
+
+
+---
+
+## 🏷️ Tags / Keywords
+`#EMRIntegration` `#Interoperability` `#NiShauri` `#Ushauri` `#CBHIS` `#PowerBI`  
+`#Python` `#SQLServer` `#DigitalHealth` `#EDARP` `#DataProtectionAct2019` `#Kenya`
+
+---
+
+## 🧾 Badges
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/RESTful%20APIs-000000?style=for-the-badge&logo=api&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DHIS2](https://img.shields.io/badge/DHIS2-0078D7?style=for-the-badge&logo=databricks&logoColor=white)
+![CBHIS](https://img.shields.io/badge/CBHIS-0099CC?style=for-the-badge)
+![Kenya](https://img.shields.io/badge/Kenya-006600?style=for-the-badge&logo=googleearth&logoColor=white)
+![EDARP](https://img.shields.io/badge/EDARP-003399?style=for-the-badge)
+
+---
+
+## 👤 Author
+**By [Christopher Muriithi Mwangi](https://www.linkedin.com/in/christopher-mwangi-894265b0)**  
+📧 [nomiskris@gmail.com](mailto:nomiskris@gmail.com)  
+💻 [@ChrisMuriithi](https://github.com/ChrisMuriithi)  
+🎓 [Google Scholar](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
