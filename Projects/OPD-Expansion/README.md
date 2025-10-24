@@ -100,3 +100,31 @@ Integrated **informed consent workflows** within EMR billing modules and ensured
 
 ## 📂 Visuals and Documentation
 Suggested folder structure for GitHub repository:
+
+
+---
+
+## 🏷️ Tags / Keywords
+`#MEL` `#HealthSystemsStrengthening` `#DigitalHealth` `#PowerBI` `#SQLServer`  
+`#EMRIntegration` `#FinancialSustainability` `#HealthInformatics` `#Kenya` `#EDARP` `#Carimed`
+
+---
+
+## 🧾 Badges
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Carimed](https://img.shields.io/badge/Carimed-0056A6?style=for-the-badge)
+![MPesa](https://img.shields.io/badge/MPesa-009639?style=for-the-badge&logo=safaricom&logoColor=white)
+![Ecare](https://img.shields.io/badge/Ecare%20EMR-003399?style=for-the-badge)
+![Kenya](https://img.shields.io/badge/Kenya-006600?style=for-the-badge&logo=googleearth&logoColor=white)
+![EDARP](https://img.shields.io/badge/EDARP-003399?style=for-the-badge)
+
+---
+
+## 👤 Author
+**By [Christopher Muriithi Mwangi](https://www.linkedin.com/in/christopher-mwangi-894265b0)**  
+📧 [nomiskris@gmail.com](mailto:nomiskris@gmail.com)  
+💻 [@ChrisMuriithi](https://github.com/ChrisMuriithi)  
+🎓 [Google Scholar](https://scholar.google.com/citations?user=isM9thcAAAAJ&hl=en)
