@@ -1,25 +1,106 @@
-# **UPI Framework Implementation Project: Advancing Client Registry and Interoperability at EDARP**
+# UPI Framework Implementation Project: Advancing Client Registry and Interoperability at EDARP  
 
-## 1. Description
-Aligned with the Kenya Health Act (2017), this project operationalized a **Unique Patient Identifier (UPI)** across 14 facilities to improve data accuracy and interoperability (Ecare EMR ↔ NiShauri/Ushauri/DHIS2). I led system design, data mapping, and API integration with embedded consent management.
+*Digitally transforming patient identity management through a unified, verifiable, and interoperable client registry system aligned with Kenya’s national health digital strategy.*
 
-## 2. Languages and Utilities Used
-SQL Server; Python; REST/JSON; Postman; Excel/Power Query; NVivo; Power BI.
+---
 
-## 3. Environment / Platforms Used
-Ecare EMR v4.2; SQL Server 2019; MoH UPI API Sandbox (FHIR-compliant); Power BI Service; encrypted cloud backup.
+## 🧩 Project Overview
+The **Unique Patient Identifier (UPI) Framework Implementation Project** was launched by **Eastern Deanery AIDS Relief Program (EDARP)** to align with the **Kenya Health Act (2017)** and the **Ministry of Health’s UPI Technical Framework**.  
 
-## 4. Step-by-Step Walkthrough
-Requirements audit → UPI generation logic (NatID/Birth Cert with fallbacks) → SQL procedures + APIs to external platforms → fuzzy-match deduping → UPI coverage dashboard → training & phased rollout.
+The initiative established a **client registry** that ensures each patient has a **single, verifiable, and interoperable identifier** across EDARP’s 14 facilities. It enhances **data accuracy**, **continuity of care**, and **interoperability** between EDARP’s **Ecare EMR**, community data systems, and national digital health platforms such as **DHIS2**, **NiShauri**, and **Ushauri**.
 
-## 5. Key Outputs / Deliverables
-EMR UPI module; coverage dashboard; reconciliation scripts; integration manual; training package.
+As the **Project Lead and M&E/ICT Manager**, I led the system design, data mapping, and **API-based integration** of facility EMRs with external registries, embedding strong **data protection and consent management workflows** throughout.
 
-## 6. Results and Impact
-Duplicates −67%; 40k+ records exchanged; UPI coverage 54%→95% in 6 months; instant ID verification and audit trails.
+---
 
-## 7. Lessons Learned / Future Improvements
-Temporary IDs for undocumented clients; next: biometrics, ML duplicate detection, SHIF linkage.
+## 🎯 Core Objectives
+- Operationalize a **nationally compliant UPI generation and verification framework**  
+- Enable **data exchange** between EDARP’s EMR and national health information systems  
+- Reduce **duplicate records** and improve client tracking and data quality  
+- Embed **data protection**, audit trails, and **informed consent processes** into EMR workflows  
 
-## 9. Tags / Keywords
-`#UPI` `#Interoperability` `#DataGovernance` `#PowerBI` `#SQLServer` `#Kenya`
+---
+
+## 🧰 Languages & Utilities Used
+| Tool / Platform | Purpose |
+|------------------|----------|
+| **SQL Server** | Core client registry, record linkage, and data validation |
+| **Python** | Record deduplication and matching using Levenshtein and fuzzy logic |
+| **RESTful APIs (JSON)** | Data exchange between EMR, NiShauri, and Ushauri |
+| **Postman** | API testing, endpoint documentation, and sandbox validation |
+| **Excel / Power Query** | UPI validation checks and interim data reconciliation |
+| **NVivo** | Qualitative analysis of pilot testing feedback from facilities |
+| **Power BI** | Dashboards visualizing UPI coverage, verification, and duplicates resolved |
+
+---
+
+## 🖥️ Environment / Platforms Used
+- **Ecare EMR** with integrated UPI registry module  
+- **Microsoft SQL Server** for backend database operations and stored procedures  
+- **MoH UPI API Sandbox (FHIR-compliant)** for interoperability testing  
+- **Power BI Service** for live tracking of verification and deduplication metrics  
+- **Secure Cloud Backup** with nightly encrypted synchronization  
+
+---
+
+## 🧭 Implementation Walkthrough
+
+### 1. Requirement Analysis  
+Conducted system audits across **14 EDARP clinics** to identify duplicate patient records and identification gaps.  
+Reviewed **Kenya’s UPI Framework** to ensure compliance with national standards.
+
+### 2. UPI Generation and Structure Design  
+Adopted **National ID** and **Birth Certificate** numbers as primary data sources.  
+Designed fallback logic for clients without formal IDs using community-level identifiers.
+
+### 3. System Integration  
+Developed **SQL procedures** to generate and validate UPIs automatically within EMR.  
+Implemented **RESTful APIs** for real-time record verification with **NiShauri** and **Ushauri**.  
+Added **consent capture** and **audit trail tracking** for full **DPA 2019** compliance.
+
+### 4. Data Cleaning and Verification  
+Used **Python scripts** for record matching (Levenshtein distance, fuzzy matching) to identify and merge duplicates.  
+Created **SQL reconciliation scripts** for periodic verification and completeness checks.
+
+### 5. Dashboard and Monitoring  
+Designed a **Power BI dashboard** visualizing facility-level UPI coverage, duplicates resolved, and verification success rates.  
+Enabled **automated weekly refreshes** for real-time performance tracking.
+
+### 6. Capacity Building and Rollout  
+Trained **28 data officers and facility leads** on UPI workflows, data protection, and troubleshooting.  
+Piloted the system in **3 facilities** before scaling to all 14.
+
+---
+
+## 📦 Key Outputs / Deliverables
+- ✅ **Ecare EMR UPI Module** for automated identifier generation and validation  
+- ✅ **UPI Coverage Dashboard** visualizing registration and verification performance  
+- ✅ **SQL/Python Reconciliation Scripts** for deduplication and record matching  
+- ✅ **UPI Integration Manual** documenting EMR–NiShauri–Ushauri API connections  
+- ✅ **Training Package** for staff capacity-building and data protection awareness  
+
+---
+
+## 📈 Results & Impact
+| Outcome | Result |
+|----------|---------|
+| **Duplicate Reduction** | Reduced duplicate patient records by **67%** across all facilities |
+| **Interoperability** | Exchanged over **40,000 client records** with external systems |
+| **Data Quality** | Improved UPI coverage from **54% → 95%** within six months |
+| **Efficiency Gains** | Enabled **instant patient verification** at point of service |
+| **Data Protection Compliance** | Embedded **consent and audit trails** across all registry workflows |
+
+---
+
+## 💡 Lessons Learned & Future Improvements
+- **Challenge:** Some clients lacked formal IDs, limiting full verification coverage.  
+- **Solution:** Introduced **temporary identifiers** linked to EMR-generated UPI logic.  
+- **Next Steps:**  
+  - Introduce **biometric validation** for higher accuracy  
+  - Apply **machine learning** for duplicate detection and anomaly scoring  
+  - Integrate UPI data with **NHIF/SHIF** for universal coverage tracking  
+
+---
+
+## 📂 Visuals and Documentation
+Suggested repository folder structure:
